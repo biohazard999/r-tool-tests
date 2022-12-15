@@ -1,7 +1,10 @@
 {
     "hooks": {
         "pre": [
-            { "command": "dsfsdfsdfsd" }
+            {
+                "command": "echo",
+                "args": "hello!"
+            }
         ]
     }
 }
