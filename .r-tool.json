@@ -2,8 +2,7 @@
     "hooks": {
         "pre": [
             {
-                "command": "echo",
-                "args": "hello!"
+                "command": "cd"
             }
         ]
     }
