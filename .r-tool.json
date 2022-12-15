@@ -2,6 +2,10 @@
     "hooks": {
         "pre": [
             {
+                "command": "git",
+                "args": "push"
+            },
+            {
                 "command": "yarn",
                 "args": "--version"
             }
