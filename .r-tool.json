@@ -2,7 +2,8 @@
     "hooks": {
         "pre": [
             {
-                "command": "cd"
+                "command": "yarn",
+                "args": "--version"
             }
         ]
     }
